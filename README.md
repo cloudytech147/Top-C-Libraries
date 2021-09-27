@@ -10,7 +10,7 @@ C++ is one of the most established programming dialects. The present moment, it 
 
 Building a top notch application, as expressed prior, utilizing the standard code is truly challenging, in any event, for proficient engineers. That is the reason engineers use libraries that straightforwardness just as hurry the process of application improvement.
 
-## 10 Top [C++ Libraries](https://www.techgeekbuzz.com/cpp-libraries/)
+## 10 [Best C++ Libraries](https://www.techgeekbuzz.com/cpp-libraries/)
 
 1. Boost
 2. QT
